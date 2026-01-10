@@ -229,7 +229,7 @@ ISC
 
 ## Author
 
-[Your Name]
+Pushkar Kumar
 
 ---
 
